@@ -14,8 +14,6 @@ Sintaxe: help(função) ou help(valor/tipo de dado.método/função)
 """
 
 
-
-
 #Dir
 #print(dir('urso'))
 #print(dir(18))
